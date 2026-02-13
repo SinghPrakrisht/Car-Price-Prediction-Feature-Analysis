@@ -66,6 +66,6 @@ The dataset contains various attributes such as:
 2. Install dependencies:
    pip install -r requirements.txt
    
-3.Open the notebook:
+ 3.Open the notebook:
    jupyter notebook
 
