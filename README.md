@@ -65,6 +65,7 @@ The dataset contains various attributes such as:
    git clone https://github.com/your-username/car-price-prediction-feature-analysis.git
 2. Install dependencies:
    pip install -r requirements.txt
+   
 3.Open the notebook:
    jupyter notebook
 
