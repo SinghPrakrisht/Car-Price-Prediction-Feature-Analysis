@@ -70,3 +70,16 @@ The dataset contains various attributes such as:
    jupyter notebook
 4. Run all cells to reproduce the analysis.
 
+## 📂 Project Structure
+
+car-price-prediction-feature-analysis/
+│── data/
+│   └── car_price_data.csv
+│── notebooks/
+│   └── Data_Analysis_Project.ipynb
+│── src/
+│   └── main.py
+│── .gitignore
+│── README.md
+│── requirements.txt
+
