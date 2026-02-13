@@ -72,6 +72,7 @@ The dataset contains various attributes such as:
 
 ## 📂 Project Structure
 
+```
 car-price-prediction-feature-analysis/
 │── data/
 │   └── car_price_data.csv
