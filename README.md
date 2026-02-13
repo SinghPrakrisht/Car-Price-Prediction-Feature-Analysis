@@ -63,6 +63,7 @@ The dataset contains various attributes such as:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SinghPrakrisht/Car-Price-Prediction-Feature-Analysis.git
+   cd Car-Price-Prediction-Feature-Analysis
 2. Install dependencies:
    pip install -r requirements.txt
 3. Open the notebook:
